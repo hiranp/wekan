@@ -60,7 +60,7 @@
     "bunyan": "^1.8.12",
     "es6-promise": "^4.2.4",
     "ldapjs": "^1.0.2",
-    "meteor-node-stubs": "^0.4.1",
+    "meteor-node-stubs": "^1.2.8",
     "os": "^0.1.1",
     "page": "^1.8.6",
     "qs": "^6.5.2",
